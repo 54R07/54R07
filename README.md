@@ -53,20 +53,16 @@
 <details>
 <summary><h3>🔥 Streak Stats</h3></summary>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight_duo" alt="Your Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=54R07&theme=tokyonight_duo" alt="Your Streak">
 </p>
 </details>
 
 <details>
 <summary><h3>💻 Profile Stats</h3></summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=54R07&show_icons=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=54R07&layout=compact&theme=tokyonight" height="180">
 </p>
 </details>
 
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+
